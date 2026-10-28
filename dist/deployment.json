@@ -1,0 +1,7 @@
+{
+  "project": "Bonn Bash",
+  "deployment": "GitHub → Netlify",
+  "branch": "main",
+  "verification": "continuous-deployment-enabled-2026-10-28",
+  "source_commit": "7d6534e5a31a441f5e2ef6dd072bc053c537b22f"
+}
